@@ -14,4 +14,3 @@ Assistant Joana can help us to perform following tasks:
 9. Terminate Instance
 10. Describe Instance Details
 
-All you have to do is tell Assistant Joana what you want and she will do it for you.
